@@ -6,7 +6,7 @@ An enterprise-style AI analytics platform that converts natural language busines
 
 ## 🚀 Live Demo
 
-[Open Application]([https://your-app-link.streamlit.app](https://sqlcopilot-ai-csg82ngqwzryskkgtp9pex.streamlit.app/))
+[Open Application](https://sqlcopilot-ai-csg82ngqwzryskkgtp9pex.streamlit.app/)
 
 ## 📌 Project Overview
 
