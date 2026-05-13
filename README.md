@@ -85,6 +85,14 @@ Best performing region
 - Rounded chart containers
 - Interactive Plotly charts
 
+https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/dashboard.png
+
+https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/query_generation.png
+
+https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/charts.png
+
+https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/insights.png
+
 ---
 
 # 🚀 Future Improvements
