@@ -4,6 +4,10 @@ An enterprise-style AI analytics platform that converts natural language busines
 
 ---
 
+## 🚀 Live Demo
+
+[Open Application]([https://your-app-link.streamlit.app](https://sqlcopilot-ai-csg82ngqwzryskkgtp9pex.streamlit.app/))
+
 ## 📌 Project Overview
 
 This project simulates a modern AI-powered Business Intelligence platform where users can ask business questions in plain English and receive:
