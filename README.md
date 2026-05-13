@@ -17,6 +17,40 @@ This project simulates a modern AI-powered Business Intelligence platform where 
 
 ---
 
+# 📸 Application Preview
+
+## 🏠 Dashboard
+
+<p align="center">
+  <img src="assets/dashboard.png" width="100%">
+</p>
+
+---
+
+## 🤖 AI Query Generation
+
+<p align="center">
+  <img src="assets/query_generation.png" width="100%">
+</p>
+
+---
+
+## 📊 Visual Analytics
+
+<p align="center">
+  <img src="assets/charts.png" width="100%">
+</p>
+
+---
+
+## 🧠 AI Business Insights
+
+<p align="center">
+  <img src="assets/insights.png" width="100%">
+</p>
+
+---
+
 # ✨ Features
 
 - Natural Language to SQL
@@ -85,13 +119,6 @@ Best performing region
 - Rounded chart containers
 - Interactive Plotly charts
 
-https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/dashboard.png
-
-https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/query_generation.png
-
-https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/charts.png
-
-https://github.com/Bhushan-Tandale/sqlcopilot-ai/blob/main/assets/insights.png
 
 ---
 
